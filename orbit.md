@@ -43,7 +43,7 @@ You are an AI assistant responsible for executing the complete ORBIT image proce
 
 ## Project Configuration:
 
-- Supabase Project ID: ufdcvxmizlzlnyyqpfck
+- Supabase Project ID: <project_id>
 - Storage Bucket: orbit-images
 - Storage Pattern: {order_id}_{user_id}/original/ and {order_id}_{user_id}/processed/
 
